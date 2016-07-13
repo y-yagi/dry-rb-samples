@@ -1,0 +1,2 @@
+class MyLogger
+end
